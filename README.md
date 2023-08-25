@@ -9,14 +9,18 @@
 </br>  
 
 ### - Languages and Tools...
-
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->   
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/R3D4L1T/R3D4L1T/blob/main/files/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/R3D4L1T/R3D4L1T/blob/main/files/python.svg" alt="python" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/R3D4L1T/R3D4L1T/blob/main/files/web.svg" alt="web" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/R3D4L1T/R3D4L1T/blob/main/files/docker.svg" alt="web" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/R3D4L1T/R3D4L1T/blob/main/files/html.svg" alt="html" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/R3D4L1T/R3D4L1T/blob/main/files/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/R3D4L1T/R3D4L1T/blob/main/files/java.svg" alt="java" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/R3D4L1T/R3D4L1T/blob/main/files/powershell.svg" alt="powershell" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/R3D4L1T/R3D4L1T/blob/main/files/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/R3D4L1T/R3D4L1T/blob/main/files/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
 
