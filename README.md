@@ -15,7 +15,6 @@
   <img src="https://github.com/R3D4L1T/R3D4L1T/blob/main/files/python.svg" alt="python" style="vertical-align:top; margin:4px">
   <img src="https://github.com/R3D4L1T/R3D4L1T/blob/main/files/web.svg" alt="web" style="vertical-align:top; margin:4px">
   <img src="https://github.com/R3D4L1T/R3D4L1T/blob/main/files/docker.svg" alt="web" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/R3D4L1T/R3D4L1T/blob/main/files/html.svg" alt="html" style="vertical-align:top; margin:4px">
   <img src="https://github.com/R3D4L1T/R3D4L1T/blob/main/files/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://github.com/R3D4L1T/R3D4L1T/blob/main/files/java.svg" alt="java" style="vertical-align:top; margin:4px">
   <img src="https://github.com/R3D4L1T/R3D4L1T/blob/main/files/powershell.svg" alt="powershell" style="vertical-align:top; margin:4px">
