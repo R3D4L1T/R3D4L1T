@@ -28,12 +28,6 @@
 <a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=R3D4L1T" width="600" /></a>
 
 
-<p align="left">
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
-  </a>
-  
-</p>
 
 
 
