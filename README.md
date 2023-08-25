@@ -61,7 +61,7 @@
 </h4>
 
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+<img src="https://github.com/R3D4L1T/R3D4L1T/blob/main/files/footer.svg" width="100%">
 
 
 
