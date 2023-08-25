@@ -30,6 +30,7 @@
 
 
 
+  <a href="mailto:lonewolfforever27@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
