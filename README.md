@@ -8,12 +8,7 @@
 </p>
 </br>  
 
-### - Languages and Tools...
-<p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->   
-  <img src="https://github.com/R3D4L1T/R3D4L1T/blob/main/files/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/R3D4L1T/R3D4L1T/blob/main/files/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-</p>
+
 
 <a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=R3D4L1T" width="600" /></a>
 
